@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="assets/arche-labs-banner.jpg" alt="Arche Labs Banner" width="100%" />
+
+<br />
+
+<img src="assets/arche-labs-logo.jpg" alt="Arche Labs Logo" width="150" />
+
 # Arche Labs
 
 ### Digital experiences built for performance, clarity and growth.
@@ -9,6 +15,7 @@ Desenvolvemos websites modernos, rápidos e cuidadosamente estruturados para tra
 [![Website](https://img.shields.io/badge/Website-archelabs.vip-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://archelabs.vip)
 
 </div>
+
 
 ---
 
@@ -132,3 +139,18 @@ Integrações
 Deploy
    ↓
 Monitoramento
+```
+
+---
+
+## 📬 Contato
+
+Tem um projeto em mente ou quer saber mais sobre nosso trabalho?
+
+- 🌐 **Website:** [archelabs.vip](https://archelabs.vip)
+- ✉️ **Email:** [contato@archelabs.vip](mailto:contato@archelabs.vip)
+
+<div align="center">
+  <br />
+  <p><sub>© Arche Labs. Todos os direitos reservados.</sub></p>
+</div>
