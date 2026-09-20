@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="assets/arche-labs-banner.jpg" alt="Arche Labs Banner" width="100%" />
-
-<br />
-
 <img src="assets/arche-labs-logo.jpg" alt="Arche Labs Logo" width="150" />
 
 # Arche Labs
@@ -15,7 +10,6 @@ Desenvolvemos websites modernos, rápidos e cuidadosamente estruturados para tra
 [![Website](https://img.shields.io/badge/Website-archelabs.vip-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://archelabs.vip)
 
 </div>
-
 
 ---
 
